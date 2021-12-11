@@ -52,4 +52,4 @@ If you like what I do, maybe consider buying me a coffee/beer 🥺👉👈
 
 <br>📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=danilovaz&show_icons=true&theme=gotham" alt="danilovaz" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=danilovaz&count_private=true&show_icons=true&theme=gotham" alt="danilovaz" />

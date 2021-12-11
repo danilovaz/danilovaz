@@ -12,13 +12,13 @@
 
 <br />
 
-I'm [Danilo Vaz](https://www.linkedin.com/in/danilovaz/) a passionate self-taught web developer from <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/> <b>Brazil</b>. My passion for software is to create useful and functional interfaces with focus on user and developer experience. I love everything about thinking about architecture from the smallest to largest.
+I'm [Danilo Vaz](https://www.linkedin.com/in/danilovaz/) a passionate self-taught web developer from <b>Brazil</b>. My passion for software is to create useful and functional interfaces with focus on user and developer experience. I love everything about thinking about architecture from the smallest to largest.
 
-I'm currently working as a Principal Front-End Engineer at :orange_heart: [mLabs](https://mlabs.com.br/) :orange_heart: and trying my best to make the life of our front-end developers better.
+I'm currently working as a Principal Front-End Engineer at :orange_heart: [mLabs](https://mlabs.com.br/) and Tech Manager at 💛 [Dashgoo](https://dashgoo.com/) by mLabs.
 
 I am also an open-source enthusiast. I learned a lot from the open-source community and I try to give back to the community.
 
-  <img align="right" alt="Brazil flag" src="https://user-images.githubusercontent.com/1218337/116272214-1dddca80-a757-11eb-83c4-b044c134ce5f.gif" width="400" height="320" />
+<img align="right" alt="Brazil flag" src="https://user-images.githubusercontent.com/1218337/116272214-1dddca80-a757-11eb-83c4-b044c134ce5f.gif" width="400" height="320" />
   
 - 🔭 I’m currently working on Design System's
 - 🌱 I’m currently learning more about Microfrontends
@@ -44,12 +44,6 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
 
-If you like what I do, maybe consider buying me a coffee/beer 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/danilovaz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-:coffee: Wanna chat? :point_right: @ me on <a href="https://twitter.com/_danilovaz">Twitter</a>
-
 <br>📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=danilovaz&count_private=true&show_icons=true&theme=gotham" alt="danilovaz" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=danilovaz&count_private=true&show_icons=true&theme=gotham" alt="danilovaz" />

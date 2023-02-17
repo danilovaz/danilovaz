@@ -23,7 +23,7 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 - 🔭 I’m currently working on Design System's
 - 🌱 I’m currently learning more about Microfrontends
 - 💬 Ask me about anything related to Javascript or Design System
-- ⚡ Fun fact: I became developer because [Tibia](https://www.tibia.com/account/)
+- ⚡ Fun fact: I became developer because of [Tibia](https://www.tibia.com/account/)
 
 📕 **Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
@@ -46,4 +46,5 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 
 <br>📈 My GitHub Stats
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=danilovaz&count_private=true&show_icons=true&theme=gotham" alt="danilovaz" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=danilovaz&count_private=true&show_icons=true&theme=gotham&hide_border=true" alt="danilovaz github stats" /></p>
+<p align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=danilovaz&hide_border=true&date_format=d%20F[,%20Y]&theme=gotham&mode=weekly" alt="danilo vaz github streak stats" /></p>
